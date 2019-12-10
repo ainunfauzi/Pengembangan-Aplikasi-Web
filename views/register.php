@@ -51,7 +51,7 @@
 </head>
 <body>
 <div id="container">
-<h2 align="center">Register</h2>
+<h2 align="center">Registration</h2>
 <form method="post" action="<?php echo base_url(). 'index.php/ctrl_register/insert'?>">
 	Nama <input type="text" name="nama_siswa" placeholder="Nama" required><br><br>
 	Tgl Lahir <input type="date" name="tgl_lahir" placeholder="tgl lahir" required><br><br>
